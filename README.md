@@ -1,2 +1,14 @@
 # funiqy-journal
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
